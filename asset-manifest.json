@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dalemab3/Youtube-Clone-ReactJS-API/static/css/main.7064deb2.css",
+    "main.js": "/dalemab3/Youtube-Clone-ReactJS-API/static/js/main.96031288.js",
+    "index.html": "/dalemab3/Youtube-Clone-ReactJS-API/index.html",
+    "main.7064deb2.css.map": "/dalemab3/Youtube-Clone-ReactJS-API/static/css/main.7064deb2.css.map",
+    "main.96031288.js.map": "/dalemab3/Youtube-Clone-ReactJS-API/static/js/main.96031288.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.96031288.js"
+  ]
+}
